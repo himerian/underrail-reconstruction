@@ -10,5 +10,5 @@ Installation
 ------------
 
 1. Install Minetest 5.4.1.
-2. Install Underrail Game. (copy files ``map-underrail-reconstruction`` of game in /minetest/games).
-3. Install map (copy files of map in /home/user/.minetest/worlds at Linux, or in minetest/worlds at Windows). 
+2. Install Underrail Game. (copy files of game in /minetest/games).
+3. Install map (copy files of map ``map-underrail-reconstruction`` in /home/user/.minetest/worlds at Linux, or in minetest/worlds at Windows). 
