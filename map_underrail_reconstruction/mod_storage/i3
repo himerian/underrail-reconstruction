@@ -1,1 +1,1 @@
-{"data":"return {[\"singleplayer\"] = {[\"drop_items\"] = {}, [\"waypoints\"] = {}}}"}
+{"data":"return {singleplayer={drop_items={},waypoints={}}}"}
