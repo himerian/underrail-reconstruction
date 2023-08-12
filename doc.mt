@@ -1,0 +1,1 @@
+local _={};_[1]="underrail_basics_cat";_[2]="common_info";return {players_stored_data={singleplayer={viewed_count={[_[1]]=2},revealed_count={[_[1]]=2},viewed={[_[1]]={entry1=true,[_[2]]=true}},revealed={[_[1]]={entry1=true,[_[2]]=true}}}}}
