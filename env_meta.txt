@@ -3,5 +3,5 @@ lbm_introduction_times = :doors:replace_doors_door_glass~36328;:doors:replace_do
 lbm_introduction_times_version = 1
 last_clear_objects_time = 0
 time_of_day = 5250
-game_time = 315954
+game_time = 318208
 EnvArgsEnd
