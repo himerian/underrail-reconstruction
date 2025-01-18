@@ -13,7 +13,7 @@ mgflat_np_terrain = {
 	lacunarity = 2
 	scale = 1
 	seed = 7244
-	persistence = 0.6
+	persistence = 0.600000024
 	offset = 0
 	spread = (600,600,600)
 	octaves = 5
@@ -30,7 +30,7 @@ mgflat_np_cave2 = {
 	spread = (67,67,67)
 	octaves = 3
 }
-mgflat_hill_threshold = 0.45
+mgflat_hill_threshold = 0.449999988
 mgflat_lake_steepness = 48
 mg_flags = nocaves, nodungeons, light, decorations, biomes, ores
 water_level = 1
@@ -49,7 +49,7 @@ mg_biome_np_heat = {
 	spread = (1000,1000,1000)
 	octaves = 3
 }
-mgflat_cave_width = 0.09
+mgflat_cave_width = 0.0900000036
 mg_biome_np_heat_blend = {
 	flags = defaults
 	lacunarity = 2
@@ -61,7 +61,7 @@ mg_biome_np_heat_blend = {
 	octaves = 2
 }
 mgflat_dungeon_ymin = -31000
-mgflat_lake_threshold = -0.45
+mgflat_lake_threshold = -0.449999988
 mapgen_limit = 31000
 mg_biome_np_humidity = {
 	flags = defaults
@@ -76,9 +76,9 @@ mg_biome_np_humidity = {
 mgflat_np_filler_depth = {
 	flags = defaults
 	lacunarity = 2
-	scale = 1.2
+	scale = 1.20000005
 	seed = 261
-	persistence = 0.7
+	persistence = 0.699999988
 	offset = 0
 	spread = (150,150,150)
 	octaves = 3
@@ -95,7 +95,7 @@ mg_biome_np_humidity_blend = {
 }
 mgflat_spflags = nolakes, nohills, nocaverns
 mgflat_large_cave_depth = -33
-mgflat_cavern_threshold = 0.7
+mgflat_cavern_threshold = 0.699999988
 mgflat_cavern_limit = -256
 mgflat_large_cave_flooded = 0.5
 mgflat_np_cavern = {
@@ -103,11 +103,11 @@ mgflat_np_cavern = {
 	lacunarity = 2
 	scale = 1
 	seed = 723
-	persistence = 0.63
+	persistence = 0.629999995
 	offset = 0
 	spread = (384,128,384)
 	octaves = 5
-	}
+}
 mgflat_cavern_taper = 256
 mgflat_large_cave_num_max = 2
 mgflat_large_cave_num_min = 0
@@ -118,9 +118,9 @@ mgflat_np_dungeons = {
 	lacunarity = 2
 	scale = 0.5
 	seed = 0
-	persistence = 0.8
-	offset = 0.9
+	persistence = 0.800000012
+	offset = 0.899999976
 	spread = (500,500,500)
 	octaves = 2
-	}
+}
 [end_of_params]
